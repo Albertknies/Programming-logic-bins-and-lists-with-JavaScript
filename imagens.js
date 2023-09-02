@@ -14,14 +14,14 @@ let somDaColisao;
 let somDoPonto;
 
 function preload() {
-  imagemDaEstrada = loadImage("imagens/estrada.png");
-  imagemDoAtor = loadImage("imagens/mae.png");
-  imagemCarro = loadImage("imagens/pai.png");
-  imagemCarro2 = loadImage("imagens/tefa.png");
-  imagemCarro3 = loadImage("imagens/alisson.png");
-  imagemCarro4 = loadImage("imagens/albert.png");
-  imagemCarro5 = loadImage("imagens/gi.png");
-  imagemCarro6 = loadImage("imagens/rafa.png");
+  imagemDaEstrada = loadImage("img/estrada.png");
+  imagemDoAtor = loadImage("img/mae.png");
+  imagemCarro = loadImage("img/1.png");
+  imagemCarro2 = loadImage("img/tefa.png");
+  imagemCarro3 = loadImage("img/alisson.png");
+  imagemCarro4 = loadImage("img/albert.png");
+  imagemCarro5 = loadImage("img/gi.png");
+  imagemCarro6 = loadImage("img/rafa.png");
 
   imagemCarros = [
     imagemCarro,
