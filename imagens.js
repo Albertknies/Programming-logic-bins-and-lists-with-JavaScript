@@ -15,13 +15,13 @@ let somDoPonto;
 
 function preload() {
   imagemDaEstrada = loadImage("imagens/estrada.png");
-  imagemDoAtor = loadImage("imagens/mae.PNG");
+  imagemDoAtor = loadImage("imagens/mae.png");
   imagemCarro = loadImage("imagens/pai.png");
-  imagemCarro2 = loadImage("imagens/tefa.PNG");
-  imagemCarro3 = loadImage("imagens/alisson.PNG");
-  imagemCarro4 = loadImage("imagens/albert.PNG");
-  imagemCarro5 = loadImage("imagens/gi.PNG");
-  imagemCarro6 = loadImage("imagens/rafa.PNG");
+  imagemCarro2 = loadImage("imagens/tefa.png");
+  imagemCarro3 = loadImage("imagens/alisson.png");
+  imagemCarro4 = loadImage("imagens/albert.png");
+  imagemCarro5 = loadImage("imagens/gi.png");
+  imagemCarro6 = loadImage("imagens/rafa.png");
 
   imagemCarros = [
     imagemCarro,
